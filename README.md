@@ -1,1 +1,1 @@
-## Snappy - Chat App
+## Chatly - Chat App
